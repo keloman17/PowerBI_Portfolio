@@ -1,9 +1,9 @@
 # PowerBI_Portfolio
 
-#Education
+### Education
 Applied Business Computing, BSc
 Data Analysis
 
-#Projects
+### Projects
 Group project
 Individual projects
