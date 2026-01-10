@@ -5,5 +5,6 @@ Applied Business Computing, BSc
 Data Analysis
 
 ### Projects
-Group project
-Individual projects
+Women techsters
+-Group project
+-Individual projects
