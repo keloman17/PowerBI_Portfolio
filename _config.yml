@@ -1,1 +1,5 @@
-
+tittle: Lone Manga
+#Logo: 
+#description: text bellow image
+show_donwnload: false
+theme: jekyll-theme-minimal
