@@ -18,7 +18,8 @@ Prepare presentations and reports.
 ## Group projects
 
 ![image](2 images/ClimateChange_Analysis.png)
-![image](images/ClimateChange_Analysis.png)
+
 
 
 ## Individual projects
+![image](images/ClimateChange_Analysis.png)
