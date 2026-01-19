@@ -12,7 +12,10 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 **- ✅ Stakeholder communication**
 Prepare presentations and reports.
 
-### My Portfolio Projects
-Women techsters
--Group project
--Individual projects
+
+# My Portfolio Projects
+![image](images/ClimateChange_Analysis.png)
+## Group projects
+
+
+## Individual projects
