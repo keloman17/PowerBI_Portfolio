@@ -16,9 +16,7 @@ Prepare presentations and reports.
 # My Portfolio Projects
 
 ## Group projects
-
-![image](2 images/ClimateChange_Analysis.png)
-
+![image](images/ClimateChange_Analysis.png)
 
 
 ## Individual projects
