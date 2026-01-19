@@ -1,5 +1,5 @@
 # Profile
-Hello world! My name is Lone, a determined and proficient Information Technology professional with strong expertise in data analytics demonstrating a strong ability to interpret business requirements into actionable insights, optimize reporting processes and improve data accuracy and efficiency across organizational workflows. Experienced with sales, medical, education, finance and operations i help businesses understand it's challages to unlock growth. 
+Hello world! My name is Lone, a determined and proficient Information Technology professional with strong expertise in data analytics demonstrating a strong ability to interpret business requirements into actionable insights, optimize reporting processes and improve data accuracy and efficiency across organizational workflows. Experienced with sales, medical, education, finance and operations, I help businesses understand it's challenges to unlock growth. 
 
 # What i do
 
