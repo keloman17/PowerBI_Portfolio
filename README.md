@@ -16,6 +16,25 @@ Prepare presentations and reports.
 # My Portfolio Projects
 
 ## Group projects
+
+### Problem
+Climate change and extreme weather events pose a threat to global food security, leading to unstable crop yields and massive economic losses in the agricultural sector worldwide.
+
+### Objectives
+To identify the main factor diving economic losses
+To Identify crops most vulnerable to climate change effects
+Identify which climate adaptation strategies (e.g., Water Management, Drought-resistant Crops) are most effective: 
+Comparing Nigeria vs. United States
+To assess if climate adaptation strategies can be transferred across different countries, for example: can we apply what works for Nigeria in the United States?
+
+### Insights and Conclusion
+
+Strategies to combat climate impact should prioritize protecting vulnerable crops
+Extreme weather events is the main driver of financial loss in the agriculture sector 
+Any policy or adaptation strategy that can reduce the frequency of these events or mitigate their damage will reduce financial losses
+Climate adaptation strategies are context specific but some are transferable (water Management)
+Achieving Zero Hunger - focus on strategies that boost yield (Water Management) and reduce financial volatility (Crop Rotation)
+
 ![image](images/ClimateChange_Analysis.png)
 
 
