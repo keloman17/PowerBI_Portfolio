@@ -1,5 +1,5 @@
 tittle: Lone Manga
 logo: /images/Graduation.jpg
 description: Welcome to my Data Analytics portfolio
-show_donwnload: false
+show_donwnload: True
 theme: jekyll-theme-minimal
