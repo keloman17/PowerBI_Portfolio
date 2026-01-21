@@ -39,4 +39,4 @@ Achieving Zero Hunger - focus on strategies that boost yield (Water Management) 
 
 ## Individual projects
 
-![image](images/ClimateChange_Analysis.png)
+![image](images/CoursePerfomance_Analysis.png)
