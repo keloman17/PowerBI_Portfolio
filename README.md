@@ -40,7 +40,7 @@ Achieving Zero Hunger - focus on strategies that boost yield (Water Management) 
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Read More</a></td>
     </tr>
     
-<!--  ![image](images/ClimateChange_Analysis.png) -->
+![image](images/ClimateChange_Analysis.png)
 
 
 ## Individual projects
@@ -52,5 +52,8 @@ Make a sales analysis for Exhodus cars and develop a data analysis tool for our 
 2. Identify top 3 cars sold
 3. Compare profit * sales Quantity between the car segments
 4. Visualize Revenue by City
-   
-![image](images/CoursePerfomance_Analysis.png)
+<tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Read More</a></td>
+    </tr>   
+![image](images/CarSalesDashboard.png)
