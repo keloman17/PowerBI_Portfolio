@@ -37,7 +37,7 @@ Achieving Zero Hunger - focus on strategies that boost yield (Water Management) 
 
 <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Read More</a></td>
+      <td><a href="https://github.com/keloman17/group-projects">Read More</a></td>
     </tr>
     
 ![image](images/ClimateChange_Analysis.png)
