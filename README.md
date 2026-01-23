@@ -44,5 +44,13 @@ Achieving Zero Hunger - focus on strategies that boost yield (Water Management) 
 
 
 ## Individual projects
+### Business Case
+Make a sales analysis for Exhodus cars and develop a data analysis tool for our company sales.
 
+### Objectives
+1. Present revenue by country (ZA/BW)
+2. Identify top 3 cars sold
+3. Compare profit * sales Quantity between the car segments
+4. Visualize Revenue by City
+   
 ![image](images/CoursePerfomance_Analysis.png)
