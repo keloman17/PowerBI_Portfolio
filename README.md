@@ -5,17 +5,15 @@ Hello world! My name is Lone, a determined and proficient Information Technology
 
 **- ✅ Data Cleaning**
 Transform raw data into manageable forms.
-
 **- ✅ Data Analytics**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.
-
 **- ✅ Stakeholder communication**
 Prepare presentations and reports.
 
 
 # My Portfolio Projects
 
-
+## Team projects
 ### Problem
 Climate change and extreme weather events pose a threat to global food security, leading to unstable crop yields and massive economic losses in the agricultural sector worldwide.
 
