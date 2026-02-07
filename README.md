@@ -52,6 +52,6 @@ Make a sales analysis for Exhodus cars and develop a data analysis tool for our 
 4. Visualize Revenue by City
 <tr>
       <td>⬇️</td>
-      <td><a href="https://github.com/keloman17/DataAnalysis_with_AI">Read More</a></td> 
+      <td><a href="https://github.com/keloman17/PowerBI-With-AI">Read More</a></td> 
 </tr>   
 ![image](images/CarSalesDashboard.png)
